@@ -81,7 +81,6 @@ bpsk-demodulator-vhdl/
 │   ├── mixers/
 │   ├── fir_filter/
 │   ├── nco/
-│   ├── cordic/
 │   ├── loop_filter/
 │   ├── demodulator/
 │   └── top/
